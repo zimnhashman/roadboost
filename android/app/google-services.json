@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "781086037025",
+    "project_id": "roadboost",
+    "storage_bucket": "roadboost.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781086037025:android:5886cb59c6c3a8f63bff60",
+        "android_client_info": {
+          "package_name": "com.nhanitech.roadboost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781086037025-a8vlge5det6itbv8a08l79bdg4og45es.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nhanitech.roadboost",
+            "certificate_hash": "ee0dbc8a5ddf5344c86d0c26c64414109440037e"
+          }
+        },
+        {
+          "client_id": "781086037025-nn72no2u7fv9ejas3jkajn9lkgjo6ro6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6bg9Z_-ttQiix2Ay1ArX8ANoAL2J1yTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781086037025-nn72no2u7fv9ejas3jkajn9lkgjo6ro6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
